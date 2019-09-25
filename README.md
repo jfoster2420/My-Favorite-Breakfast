@@ -1,2 +1,3 @@
-# My-Favorite-Breakfast
-My recipe for my favorite breakfast
+# About
+
+I normally have a lot of time on the weekend, so I like to make pancakes and scrambled eggs
